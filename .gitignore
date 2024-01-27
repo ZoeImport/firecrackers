@@ -1,0 +1,12 @@
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.iws
+*.iml
+*.ipr
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
