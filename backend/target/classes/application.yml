@@ -1,0 +1,7 @@
+application:
+  login-required: false
+  username: user
+  password: password
+  urls: auto
+server:
+  shutdown: graceful

@@ -1,0 +1,45 @@
+[
+{
+  "name":"xyz.dreamagician.electronicfirecrackers.model.PlayerDto",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "methods":[{"name":"getId","parameterTypes":[] }, {"name":"getNumber","parameterTypes":[] }, {"name":"isConnected","parameterTypes":[] }]
+},
+{
+  "name":"xyz.dreamagician.electronicfirecrackers.model.PlayerGameData",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "methods":[{"name":"getPlayer","parameterTypes":[] }, {"name":"getStrandStatus","parameterTypes":[] }, {"name":"getStrandType","parameterTypes":[] }, {"name":"getTimeStamp","parameterTypes":[] }]
+},
+{
+  "name":"xyz.dreamagician.electronicfirecrackers.model.StrandStatusDto",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "methods":[{"name":"getDuration","parameterTypes":[] }, {"name":"getIgniteTime","parameterTypes":[] }, {"name":"isFinished","parameterTypes":[] }, {"name":"isIgnited","parameterTypes":[] }]
+},
+{
+  "name":"xyz.dreamagician.electronicfirecrackers.model.StrandType",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"xyz.dreamagician.electronicfirecrackers.model.socket.SocketServerSendPack",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "methods":[{"name":"getData","parameterTypes":[] }, {"name":"getType","parameterTypes":[] }]
+},
+{
+  "name":"xyz.dreamagician.electronicfirecrackers.model.socket.SocketServerSendPackType",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"xyz.dreamagician.electronicfirecrackers.model.socket.SocketServerSendPlayerGameDataPack",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+}
+]
